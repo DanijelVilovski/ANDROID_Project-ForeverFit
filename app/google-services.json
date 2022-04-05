@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151418770092",
+    "project_id": "foreverfit-42ef8",
+    "storage_bucket": "foreverfit-42ef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151418770092:android:b29f118661d930e2b48509",
+        "android_client_info": {
+          "package_name": "com.example.foreverfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151418770092-orpqvf0fq6pbh7bk6kd0ipmmtff1qa85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXWQaf3gng-nxloZauEQ2hFxmvOpJXv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151418770092-orpqvf0fq6pbh7bk6kd0ipmmtff1qa85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
